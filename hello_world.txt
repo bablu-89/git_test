@@ -1,0 +1,2 @@
+I am now working to learn full stack web development
+on Rubi on rails.
